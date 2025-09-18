@@ -1,11 +1,12 @@
-# BMI-Calculator
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>BMI Calculator</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
 </head>
 <body>
+  
   <h2>BMI Calculator</h2>
   <label>Height (meters): <input type="number" id="height"></label><br><br>
   <label>Weight (kg): <input type="number" id="weight"></label><br><br>
@@ -26,3 +27,4 @@
   </script>
 </body>
 </html>
+
